@@ -1,0 +1,33 @@
+# bancoskeywords.yaml file
+
+allbancos:
+  - "@bancoBV"
+  - "#bancobv"
+  - "banco bv"
+  - "@bradesco"
+  - "#bradesco"
+  - "bradesco"
+  - "@BancoOriginal"
+  - "#bancooriginal"
+  - "banco original"
+  - "@itau"
+  - "#itau"
+  - "itau"
+  - "@Caixa"
+  - "caixa economica"
+  - "@santander_br"  
+  - "@BancodoBrasil"
+  - "#BancodoBrasil"
+  - "@Bancointer"
+  - "#bancointer"
+  - "Banco Inter"
+
+allbancosid:
+  - "1227548158252716032" #Banco BV
+  - "79184083" #Banco Bradesco
+  - "1615322238" #Banco Original
+  - "179398386" #Banco Itaú
+  - "229191436" #Caixa
+  - "48700857"  #Santander BR  
+  - "83723557" #Banco do Brasil
+  - "93861945" #Banco Inter
