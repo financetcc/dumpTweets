@@ -68,3 +68,8 @@ print(sys.stderr, 'Stream rodando')
 sapi = tweepy.streaming.Stream(auth, CustomStreamListener(api))
 #Definirá os parâmetros de busca.
 sapi.filter(track=banks_list[sys.argv[4]], follow=banks_list[sys.argv[5]])
+
+try:
+     raise KeyboardInterrupt
+except KeyboardInterrupt:
+     print("Keyboard interrupt exception caught")
