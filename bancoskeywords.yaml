@@ -21,6 +21,9 @@ allbancos:
   - "@Bancointer"
   - "#bancointer"
   - "Banco Inter"
+  - "@Nubank"
+  - "#nubank"
+  - "nubank"
 
 allbancosid:
   - "1227548158252716032" #Banco BV
@@ -31,3 +34,4 @@ allbancosid:
   - "48700857"  #Santander BR  
   - "83723557" #Banco do Brasil
   - "93861945" #Banco Inter
+  - "2319390320" #Nubank
